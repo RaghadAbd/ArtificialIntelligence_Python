@@ -6,8 +6,8 @@ Write Python program that simulate AI agent for Vacuum Cleaner (VC) with the fol
 
     3- VC get one perception every 2 seconds
 
-    4- Dirt area can be changed into clean by applying suck action by agent, and the clean area changes to dirt area by getting random value,
-       clean or dirt, for each area separately every 3 seconds.
+    4- Dirt area can be changed into clean by applying suck action by agent, and the clean area changes to dirt area by getting
+       random value,clean or dirt, for each area separately every 3 seconds.
 
     5- VC will get 1 point for each clean area, whenever the Performance Measure run. Performance Measure will be run for 15 seconds.
     
